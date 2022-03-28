@@ -1,16 +1,16 @@
 # Hello there 👋
 
-<!--
-**DobradorDeCodigos/DobradorDeCodigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is João. I am 18 years old and I look forward to become a professional programmer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## - 🌱 Currently:
+    - Not working in any specific project
+## -:toolbox: Tool I have worked with:
+    - Python
+    - HMTL 5
+    - CSS
+    - JAVA
+    - MySQL
+## - 📫 How to reach me: 
+    - Discord: FilhoFavorito#2628
+    - LinkedIn: João Pedro Guesser
+    - E-mail:joaopedroguesser902@gmail.com
