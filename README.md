@@ -4,11 +4,10 @@
 
 ## - 🌱 Currently:
     - Not working in any specific project
-## -:toolbox: Tool I have worked with:
+## -:toolbox: Tools I have worked with:
     - Python
     - HMTL 5
     - CSS
-    - JAVA
     - MySQL
 ## - 📫 How to reach me: 
     - Discord: FilhoFavorito#2628
