@@ -4,11 +4,9 @@
 
 ## - 🌱 Currently:
     - Going back to the basics and refreshing myself using the Rust language.
-## -:toolbox: Tools I have worked with:
-    - Python
-    - HMTL 5
-    - CSS
-    - MySQL
+## -:toolbox: Tools I like to work:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 ## - 📫 How to reach me: 
     - LinkedIn: João Pedro Guesser
     - E-mail:joaopedroguesser902@gmail.com
